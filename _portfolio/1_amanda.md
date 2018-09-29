@@ -11,7 +11,7 @@ We took a lot of photos disregard of uncomfy weather. We even try to do very pop
 I am extremely happy with the result.
 
 <div class="img_row">
-<a class="col one" href="{{ site.baseurl }}/img/keo studio photography amanda 1.jpg"><img src="{{ site.baseurl }}/img/keo studio photography amanda 1.jpg" alt="" title="example image"/></a>
+<a class="col one" href="{{ site.baseurl }}/img/keo studio photography amanda 1.jpg"><img class="col one" src="{{ site.baseurl }}/img/keo studio photography amanda 1.jpg" alt="" title="example image"/></a>
 <img class="col one" src="{{ site.baseurl }}/img/keo studio photography amanda 2.jpg" alt="" title="example image"/>
 <img class="col one" src="{{ site.baseurl }}/img/keo studio photography amanda 3.jpg" alt="" title="example image"/>
 </div>
