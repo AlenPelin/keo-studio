@@ -24,8 +24,6 @@ permalink: "/about/"
 
 ### **2018**
 
-<br/>
-
 * [The Photo Studio Australia](https://thephotostudio.com.au/): _Internship_
 * Three Feet Rising Physical Theatre "Boxed in Sideways": _BTS and event photographer._ The show was performed during the [Melbourne Fringe Festival](https://melbournefringe.com.au/). Show is produced by Jacinda Patty and Claire Wallace
 * Product photosession for [By Samantha Melbourne](https://www.bysamantha.net/): _Photographer_
@@ -33,8 +31,6 @@ permalink: "/about/"
   <br/>
 
 ### **2016**
-
-<br/>
 
 * "Amazing Mummas Calendar" Shoot directed by Amy Johnston: _Photographer_
 * [ZagranMe](https://www.facebook.com/zagranme/) project about women at immigration: _52 weeks project. Photographer, content creator and project owner_
@@ -44,8 +40,6 @@ permalink: "/about/"
 
 ### **2015**
 
-<br/>
-
 * BTS and Still Photography for Holistic Living Productions, Generation Swap, Melissa Houghton: _Photographer_
 * Photo session and runway show for Opera and Sunflair swimwear: _Photographer. Event at the Bohemian Rhapsody Club event in September 2015_
 * Melbourne Spring Fashion Week: _Photographer of backstage at the ONCE WAS show at MSFW with Confidente Hair Salon_
@@ -54,8 +48,6 @@ permalink: "/about/"
 <br/>
 
 ### **2014**
-
-<br/>
 
 * Keo Studio Photography Launched: _Photographer and Photo Editor_
 
