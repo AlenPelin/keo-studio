@@ -8,7 +8,7 @@ permalink: "/about/"
 
 <p>Hi!</p>
 
-<p> I am Svetlana <i>*you can call me Lana</i> I am fashion and portrait photographer based in Melbourne, Australia</p>
+<p> I am Svetlana <i>*you can call me Lana.</i> I am fashion and portrait photographer based in Melbourne, Australia</p>
 
 <p>I started building my portfolio in 2014, when I moved to Australia; it all started as a part of my English classes (you can't direct your model without proper language, right?) but now I can not imagine my life without photography.</p>
 
