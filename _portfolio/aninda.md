@@ -1,7 +1,7 @@
 ---
-title: Aninda
+title: Aninda - street style photography in Melbourne
 layout: post
-date: 2018-09-30 22:10:18 +1000
+date: 2018-09-30 12:10:18 +0000
 description: Aninda photoshoot by Keo Studio Photography
 images:
   main: "/media/keo studio photography aninda 3.jpg"
@@ -12,4 +12,10 @@ images:
   - "/media/keo studio photography aninda 3.jpg"
 
 ---
-Aninda modeled for me already three times and I want to share with you our first session. The main ideas was street fashion photo shoot and we succeeded. Aninda knew perfectly how to pose and nailed it!
+<p>in January 2018, I decided to try something new for keo studio photography; my first decision was to start steps in street style photography, fashion photography and lookbooks.</p>
+
+<p>There are a lot of opportunities to do so in Melbourne, where we have Melbourne Fashion Week (MFW) (link [https://mfw.melbourne.vic.gov.au/about/](https://mfw.melbourne.vic.gov.au/about/ "https://mfw.melbourne.vic.gov.au/about/")) and many many talented bloggers, stylist, designers and influencers. 
+
+<p>Aninda was a perfect model for me. We did one look in different location and I would like to share some photos with you.</p>
+
+<p>I am going to do more fashion photography in Melbourne and in Australia because I really like it.</p>
