@@ -48,7 +48,7 @@ permalink: "/about/"
 * Melbourne Spring Fashion Week : _Photographer of backstage at the ONCE WAS show at MSFW with Confidente Hair Salon_
 * Anna Russka Fashion Magazine : _Photo editor_
 
-### 2014
+### **2014**
 
 * Keo Studio Photography Launched : _Photographer and Photo Editor_
 
