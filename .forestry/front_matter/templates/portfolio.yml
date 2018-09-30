@@ -1,0 +1,15 @@
+---
+label: Portfolio
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: description
+  label: Description
+  config:
+    required: true
