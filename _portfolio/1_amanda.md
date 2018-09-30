@@ -3,10 +3,10 @@ layout: post
 title: Project
 description: a project with a background image
 img: "/img/keo studio photography amanda 2.jpg"
-
 ---
+
 <div class="img_row">
-<img class="col three" src="{{ site.baseurl }}/img/keo studio photography amanda 2.jpg" alt="" title="example image"/>
+<img class="col three" src="{{ site.baseurl }}{{ post.img }}.jpg" alt="" title="example image"/>
 </div>
 
 I meet Amanda when I was looking for a new start of keo studio photography.
