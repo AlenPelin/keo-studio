@@ -50,18 +50,15 @@ permalink: "/about/"
 
 ### **2014**
 
-* Keo Studio Photography Launched : _Photographer and Photo Editor_
+* Keo Studio Photography Launched: _Photographer and Photo Editor_
 
-<br/>
-<hr/>
 <br/>
 
 
 <span class="contacticon center">
 <a href="mailto:svet.wis@gmail.com"><i class="fa fa-envelope-square"></i></a>
-<a href="https://www.facebook.com/keostudio" target="_blank"><i class="fa fa-facebook-square"></i></a>
-<a href="https://keo-studio.pixieset.com/" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-<a href="https://www.instagram.com/keo_studio_photography" target="_blank"><i class="fa fa-instagram-square"></i></a>
+<a href="https://www.facebook.com/keostudio" target="_blank"><i class="fa fa-facebook-square"></i></a>_<a href="https://keo-studio.pixieset.com/" target="_blank"><i class="fa fa-tumblr-square"></i></a>
+<a href="https://www.instagram.com/keo_studio_photography" target="_blank"><i class="fa fa-instagram-square"></i></a_>
 </span>
 
 <div class="col three caption">
