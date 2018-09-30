@@ -10,6 +10,5 @@ images:
   - "/media/keo studio photography bySamantha dresses 3.jpg"
   - "/media/keo studio photography bySamantha dresses 2.jpg"
   - "/media/keo studio photography bySamantha dresses 1.jpg"
-published: false
 
 ---
