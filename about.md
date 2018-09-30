@@ -24,6 +24,8 @@ permalink: "/about/"
 
 ### **2018**
 
+<br/>
+
 * [The Photo Studio Australia](https://thephotostudio.com.au/): _Internship_
 * Three Feet Rising Physical Theatre "Boxed in Sideways": _BTS and event photographer._ The show was performed during the [Melbourne Fringe Festival](https://melbournefringe.com.au/). Show is produced by Jacinda Patty and Claire Wallace
 * Product photosession for [By Samantha Melbourne](https://www.bysamantha.net/): _Photographer_
@@ -32,6 +34,7 @@ permalink: "/about/"
 
  ### **2016**
 
+<br/>
 
 * "Amazing Mummas Calendar" Shoot directed by Amy Johnston: _Photographer_
 
