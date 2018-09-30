@@ -16,9 +16,11 @@ permalink: "/about/"
 
 <p>Now I tend to do fashion photography, street style photography and model tests.</p>
 
-<br/>
+<br>
 
 ## Credits
+
+<br>
 
 * 2018
   * The Photo Studio Australia: _Internship_
