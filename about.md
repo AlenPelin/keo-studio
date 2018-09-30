@@ -16,11 +16,11 @@ permalink: "/about/"
 
 <p>Now I tend to do fashion photography, street style photography and model tests.</p>
 
-<br>
+<br/>
 
 ## Credits
 
-<br>
+<br/>
 
 ### **2018**
 
@@ -28,7 +28,7 @@ permalink: "/about/"
 * Three Feet Rising Physical Theatre "Boxed in Sideways": _BTS and event photographer._ The show was performed during the [Melbourne Fringe Festival](https://melbournefringe.com.au/). Show is produced by Jacinda Patty and Claire Wallace
 * Product photosession for [By Samantha Melbourne](https://www.bysamantha.net/): _Photographer_
 
-  <br>
+  <br/>
 
   ### **2016**
 
@@ -39,7 +39,7 @@ permalink: "/about/"
 * [ZagranMe](https://www.facebook.com/zagranme/) project about women at immigration: _52 weeks project. Photographer, content creator and project owner_
 * [Anna Russka Magazine](https://www.annarusska.ru ): _Photo Editor_
 
-<br>
+<br/>
 
 ### **2015**
 
