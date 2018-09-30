@@ -3,6 +3,10 @@ layout: post
 title: Project
 description: a project with a background image
 img: "/img/keo studio photography amanda 2.jpg"
+imgs: 
+  - "/img/keo studio photography amanda 1.jpg"
+  - "/img/keo studio photography amanda 2.jpg"
+  - "/img/keo studio photography amanda 3.jpg"
 ---
 
 <div class="img_row">
