@@ -21,12 +21,36 @@ permalink: "/about/"
 ## Credits
 
 * 2018
-  * The Photo Studio Australia : Intern
-  * BTS and event photographer for Three Feet Rising Physical Theatre "Boxed in Sideways". : Photographer. The show was performed during the Melbourne Fringe Festival. Show produced by Jacinda Patty and Claire Wallace
+  * The Photo Studio Australia: _Internship_
+  * BTS and event photographer for Three Feet Rising Physical Theatre "Boxed in Sideways". : _Photographer. The show was performed during the Melbourne Fringe Festival. Show produced by Jacinda Patty and Claire Wallace_
+  * Product photosession for [By Samantha Melbourne](https://www.bysamantha.net/): _Photographer_
+
+
+* 2016
+
+
+* Amazing Mummas Calendar Shoot directed by Amy Johnston: _Photographer_
+
+
+* ZagranMe project about women at immigration: _52 weeks project. Photographer, content creator and project owner_
+* Anna Russka Magazine [https://www.annarusska.ru](https://www.annarusska.ru "https://www.annarusska.ru") : _Photo Editor_
+
+2015
+
+* BTS and Still Photography for Holistic Living Productions, Generation Swap, Melissa Houghton : _Photographer_
+* Photo session and runway show for Opera and Sunflair swimwear : _Photographer. Event at the Bohemian Rhapsody Club event in September 2015_
+* Melbourne Spring Fashion Week : _Photographer of backstage at the ONCE WAS show at MSFW with Confidente Hair Salon_
+* Anna Russka Fashion Magazine : _Photo editor_
+
+2014
+
+* Keo Studio Photography Launched : _Photographer and Photo Editor_
 
 <br/>
 <hr/>
 <br/>
+
+
 <span class="contacticon center">
 <a href="mailto:svet.wis@gmail.com"><i class="fa fa-envelope-square"></i></a>
 <a href="https://www.facebook.com/keostudio" target="_blank"><i class="fa fa-facebook-square"></i></a>
