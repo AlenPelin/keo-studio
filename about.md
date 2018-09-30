@@ -28,15 +28,16 @@ permalink: "/about/"
 * Three Feet Rising Physical Theatre "Boxed in Sideways": _BTS and event photographer._ The show was performed during the [Melbourne Fringe Festival](https://melbournefringe.com.au/). Show is produced by Jacinda Patty and Claire Wallace
 * Product photosession for [By Samantha Melbourne](https://www.bysamantha.net/): _Photographer_
 
+  <br>
 
-* 2016
-
-
-* Amazing Mummas Calendar Shoot directed by Amy Johnston: _Photographer_
+  **2016**
 
 
-* ZagranMe project about women at immigration: _52 weeks project. Photographer, content creator and project owner_
-* Anna Russka Magazine [https://www.annarusska.ru](https://www.annarusska.ru "https://www.annarusska.ru") : _Photo Editor_
+* "Amazing Mummas Calendar" Shoot directed by Amy Johnston: _Photographer_
+
+
+* [ZagranMe](https://www.facebook.com/zagranme/) project about women at immigration: _52 weeks project. Photographer, content creator and project owner_
+* [Anna Russka Magazine](https://www.annarusska.ru ): _Photo Editor_
 
 2015
 
