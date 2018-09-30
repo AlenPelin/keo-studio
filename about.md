@@ -22,10 +22,11 @@ permalink: "/about/"
 
 <br>
 
-* 2018
-  * The Photo Studio Australia: _Internship_
-  * BTS and event photographer for Three Feet Rising Physical Theatre "Boxed in Sideways". : _Photographer. The show was performed during the Melbourne Fringe Festival. Show produced by Jacinda Patty and Claire Wallace_
-  * Product photosession for [By Samantha Melbourne](https://www.bysamantha.net/): _Photographer_
+**2018**
+
+* [The Photo Studio Australia](https://thephotostudio.com.au/): _Internship_
+* Three Feet Rising Physical Theatre "Boxed in Sideways": _BTS and event photographer._ The show was performed during the [Melbourne Fringe Festival](https://melbournefringe.com.au/). Show is produced by Jacinda Patty and Claire Wallace
+* Product photosession for [By Samantha Melbourne](https://www.bysamantha.net/): _Photographer_
 
 
 * 2016
