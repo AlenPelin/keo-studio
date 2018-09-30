@@ -34,17 +34,17 @@ permalink: "/about/"
 
  ### **2016**
 
-<br/>
+  <br/>
 
 * "Amazing Mummas Calendar" Shoot directed by Amy Johnston: _Photographer_
-
-
 * [ZagranMe](https://www.facebook.com/zagranme/) project about women at immigration: _52 weeks project. Photographer, content creator and project owner_
 * [Anna Russka Magazine](https://www.annarusska.ru): _Photo Editor_
 
 <br/>
 
 ### **2015**
+
+<br/>
 
 * BTS and Still Photography for Holistic Living Productions, Generation Swap, Melissa Houghton: _Photographer_
 * Photo session and runway show for Opera and Sunflair swimwear: _Photographer. Event at the Bohemian Rhapsody Club event in September 2015_
