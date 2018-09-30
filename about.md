@@ -34,7 +34,7 @@ permalink: "/about/"
 
 ### **2016**
 
-  <br/>
+<br/>
 
 * "Amazing Mummas Calendar" Shoot directed by Amy Johnston: _Photographer_
 * [ZagranMe](https://www.facebook.com/zagranme/) project about women at immigration: _52 weeks project. Photographer, content creator and project owner_
@@ -61,9 +61,7 @@ permalink: "/about/"
 
 <br/>
 
-
 <span class="contacticon center">
 <a href="mailto:svet.wis@gmail.com"><i class="fa fa-envelope-square"></i></a>
 <a href="https://www.facebook.com/keostudio" target="_blank"><i class="fa fa-facebook-square"></i></a>_<a href="https://keo-studio.pixieset.com/" target="_blank"><i class="fa fa-tumblr-square"></i></a>
 <a href="https://www.instagram.com/keo_studio_photography" target="_blank"><i class="fa fa-instagram-square"></i></a_>
-</span>
