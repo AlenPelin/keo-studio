@@ -6,11 +6,11 @@ permalink: "/about/"
 ---
 <img class="col one right" src="/media/avatar.jpg">
 
-<p>Hi! I am Svetlana <i>*you can call me Lana if you want.</i></p>
+<p>Hi! I am Svetlana <i>*you can call me Lana</i></p>
 
 <p>I started building my portfolio in 2014, when I moved to Australia; it all started as a part of my English classes (you can't direct your model without proper language, right?) but now I can not imagine my life without photography.</p>
 
-<p>I started from simple portraits,  families</p>
+<p>I started from a scratch; now I have a big portfolio</p>
 
 <br/>
 
