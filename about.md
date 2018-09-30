@@ -12,7 +12,9 @@ permalink: "/about/"
 
 <p>I started building my portfolio in 2014, when I moved to Australia; it all started as a part of my English classes (you can't direct your model without proper language, right?) but now I can not imagine my life without photography.</p>
 
-<p>I started from a scratch; now I have a big portfolio with fine art portraits, families, engagements</p>
+<p>I started from a scratch; now I have a big portfolio with fine art portraits, families and engagements; I participated in different projects and I do retouching job</p>
+
+<p>Now I tend to do fashion photography, street style photography and model tests.</p>
 
 <br/>
 

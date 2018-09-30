@@ -40,5 +40,5 @@ fields:
   hidden: false
   default: ''
 pages:
-- _portfolio/aninda-part-2.md
 - _portfolio/aninda.md
+- _portfolio/aninda-part-2.md
