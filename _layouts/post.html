@@ -11,14 +11,14 @@ layout: default
   <article class="post-content">
 
     <div class="img_row">
-      <img class="col three" src="{{ site.baseurl }}{{ page.img }}" alt="{{ page.description }}" title="{{ page.description }}"/>
+      <img class="col three" src="{{ site.baseurl }}{{ page.images.main }}" alt="{{ page.description }}" title="{{ page.description }}"/>
     </div>
     
     {{ content }}
 
     <div class="img_row">
 
-    {% for img in page.imgs %}
+    {% for img in page.images.items %}
     
       <img class="col one" src="{{ site.baseurl }}{{ img }}" alt="{{ page.description }}" title="{{ page.description }}"/>      
 

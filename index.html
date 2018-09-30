@@ -3,11 +3,10 @@ layout: default
 ---
 
 <div class="header-bar">	
-  <h1>Keo Studio Photography</h1>	
-  <h2>Svetlana Pelin - Melbourne</h2>	
-  <br/>	
+  <h1>KEO Studio Photography</h1>	
+  <h2>by Svetlana Pelin - in Melbourne</h2>	
+  <hr/>	
   <p>{{ site.description }}</p>
-  <br/>	
 </div>
 
 {% for project in site.portfolio %}
@@ -16,8 +15,8 @@ layout: default
 <div class="project">
     <div class="thumbnail">
         <a href="{{ project.redirect }}" target="_blank">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
+        {% if project.images.thumbnail %}
+        <img class="thumbnail" src="{{ project.images.thumbnail }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}    
@@ -34,16 +33,16 @@ layout: default
 <div class="project ">
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
+            {% if project.images.thumbnail %}
+            <img class="thumbnail" src="{{ project.images.thumbnail }}"/>
+            {% else %}
+            <div class="thumbnail blankbox"></div>
+            {% endif %}    
+            <span>
+                <h1>{{ project.title }}</h1>
+                <br/>
+                <p>{{ project.description }}</p>
+            </span>
         </a>
     </div>
 </div>

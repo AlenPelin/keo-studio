@@ -2,11 +2,13 @@
 layout: post
 title: Amanda
 description: Amanda photoshoot by Keo Studio Photography
-img: "/img/keo studio photography amanda 2.jpg"
-imgs: 
-  - "/img/keo studio photography amanda 1.jpg"
-  - "/img/keo studio photography amanda 2.jpg"
-  - "/img/keo studio photography amanda 3.jpg"
+images: 
+  main: "/img/keo studio photography amanda 2.jpg"
+  thumbnail: "/img/keo studio photography amanda 2.jpg"
+  items: 
+    - "/img/keo studio photography amanda 1.jpg"
+    - "/img/keo studio photography amanda 2.jpg"
+    - "/img/keo studio photography amanda 3.jpg"
 ---
 
 I meet Amanda when I was looking for a new start of keo studio photography.
