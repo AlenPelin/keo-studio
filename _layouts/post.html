@@ -9,13 +9,26 @@ layout: default
   </header>
 
   <article class="post-content">
+
+    <div class="img_row">
+      <img class="col three" src="{{ site.baseurl }}{{ page.img }}" alt="{{ page.description }}" title="{{ page.description }}"/>
+    </div>
+    
     {{ content }}
+
+    <div class="img_row">
 
     {% for img in page.imgs %}
     
-    <div>{{ img }}</div>
+      <img class="col one" src="{{ site.baseurl }}{{ img }}" alt="{{ page.description }}" title="{{ page.description }}"/>      
 
     {% endfor %}
+
+    </div>
+    
+    <div class="col three caption">
+        {{ page.description }}
+    </div>
     
   </article>
 
