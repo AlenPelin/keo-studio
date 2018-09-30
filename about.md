@@ -30,6 +30,7 @@ permalink: "/about/"
 
 ### **2016**
 
+* SkaZka: Russian Playgroup Brisbane: _Children and event Photographer_
 * "Amazing Mummas Calendar" Shoot directed by Amy Johnston: _Photographer_
 * [ZagranMe](https://www.facebook.com/zagranme/) project about women at immigration: _52 weeks project. Photographer, content creator and project owner_
 * [Anna Russka Magazine](https://www.annarusska.ru): _Photo Editor_
