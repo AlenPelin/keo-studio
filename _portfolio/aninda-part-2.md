@@ -4,8 +4,8 @@ layout: post
 date: 2018-09-30 22:14:17 +1000
 description: Aninda - Fashion photo shoot in Melbourne CBD by keo studio photography
 images:
-  main: ''
-  thumbnail: ''
+  main: "/media/4 keo studio photography aninda 1.jpg"
+  thumbnail: "/media/4 keo studio photography aninda 0 thumbnail.jpg"
   items: []
 
 ---
