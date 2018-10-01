@@ -6,7 +6,10 @@ description: Aninda - Fashion photo shoot in Melbourne CBD by keo studio photogr
 images:
   main: "/media/4 keo studio photography aninda 1.jpg"
   thumbnail: "/media/4 keo studio photography aninda 0 thumbnail.jpg"
-  items: []
+  items:
+  - "/media/4 keo studio photography aninda 4.jpg"
+  - "/media/4 keo studio photography aninda 3.jpg"
+  - "/media/4 keo studio photography aninda 2.jpg"
 
 ---
 My work as a photographer in Melbourne is full of not only photo sessions but post-processing and photo retouching too.
