@@ -20,4 +20,6 @@ We were quite limited in time:
 
 * You need to wait until dusk before you can start taking neon sign photos. 
 * The very popular place in Melbourne was chosen for that.
-* It was a really, REALLY cold night in Melbourne and thanks to brave Amanda she controlled her facial expressions perfectly! No signs of frozen face ad body! My hero.
+* It was a really, REALLY cold night in Melbourne and thanks to brave Amanda she controlled her facial expressions perfectly! No signs of frozen face and body! My hero.
+
+I am so proud of the result! The amount of photos ia small (around 10); I edited them in two styles - in red amd yellow and more pinky  and blue colors.
