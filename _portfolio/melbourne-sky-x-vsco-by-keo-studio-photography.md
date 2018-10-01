@@ -16,4 +16,6 @@ images:
 
 The full gallery is [HERE](https://keo-studio.pixieset.com/melbourneskyxvsco/).
 
-I live in Docklands, nearest suburb of Mebourne, Australia. I was blessed with a good view on [Melbourne Star the Observation Wheel](https://www.melbournestar.com/). I had been observing beautiful sky, sunruses and sunsets
+I live in Docklands, nearest suburb of Mebourne, Australia. I was blessed with a good view on [Melbourne Star the Observation Wheel](https://www.melbournestar.com/). I had been observing beautiful sky, sunrises and sunsets till I realised that I had a lot of amazing photos of Melbourne Sky.
+
+And then I decided to salute my love to Melbourne and create a project about it. It is mix of a nature photography, urban photography and personal project.
