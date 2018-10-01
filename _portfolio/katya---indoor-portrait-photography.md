@@ -15,3 +15,5 @@ images:
 Sometimes you can combine indoor photo session with natural light and this is great opportunity to create a fine-art portrait without artificial light.
 
 Katya is my long-term friend and she is a photographer too, so this photosession was a true collaboration between us.
+
+I used three types of light during the portrain session.
