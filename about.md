@@ -16,7 +16,13 @@ I started from a scratch; now I have a big portfolio with fine art portraits, fa
 
 Now I tend to do fashion photography, street style photography and model tests.
 
-Contact me svet.wis@gmail.com
+**Contact me**
+
+svet.wis@gmail.com
+
+\+61401003650
+
+Melbourne, Australia
 
 ## Credits
 
@@ -30,7 +36,7 @@ Contact me svet.wis@gmail.com
 
 ### **2016**
 
-* Profile Pictures for music band [Mockingbird](https://www.facebook.com/mockingbirdmelbourne/): _Photographer_   
+* Profile Pictures for music band [Mockingbird](https://www.facebook.com/mockingbirdmelbourne/): _Photographer_
 * Russian Drama Studio in Brisbane by Fabulous Parties. Performance 'Mirror': _Photographer at the event_
 * Russian Drama Studio in Brisbane by Fabulous Parties. Christmas Comedy Life Stories: _Photographer of Promotion Materials_
 * SkaZka: Russian Playgroup Brisbane: _Children and event Photographer_
