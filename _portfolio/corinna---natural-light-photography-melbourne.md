@@ -14,4 +14,6 @@ images:
 ---
 [Corinna](https://www.instagram.com/apropos.coco/) is a  real gem I found in the Instagram. As soon as I saw her feed I decided to invite her to be my model. I like her style and her fashion taste so this is an example of relaxed blogger photo session.
 
-We had 3 outfits - the best choice for fashion photoshoot.
+We had 3 outfits - the best choice for fashion photoshoot. The weather was a relly good too - not too cold or too hot. We even were blessed with some golden hour vibes!
+
+Thank you, Corinna, for all your grace and beauty; I had a great time and open to collaborate again!
