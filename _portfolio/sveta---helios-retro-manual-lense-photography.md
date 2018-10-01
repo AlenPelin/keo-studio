@@ -13,3 +13,5 @@ images:
 
 ---
 Year ago I received a very special birthsday gift. It was tiny Helios - russian retro bokeh portrait manual lens. I knew it would be a chalenge to work with it. This lens is not about sharp and crisp photos. It is pure magic. Especially, during the golden hour.
+
+I like how soft her skin is; bokeh is so wimsical! and I like how sun highlighted dust and pollen in the air.
