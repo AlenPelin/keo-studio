@@ -4,9 +4,12 @@ layout: post
 date: 2018-09-30 12:10:18 +0000
 description: Aninda photoshoot by Keo Studio Photography
 images:
-  main: "/media/keo studio photography aninda 3.jpg"
-  thumbnail: "/media/keo studio photography aninda 3.jpg"
+  main: "/media/3 keo studio photography aninda 1.jpg"
+  thumbnail: "/media/3 keo studio photography aninda 0 thumbnail.jpg"
   items:
+  - "/media/3 keo studio photography aninda 4.jpg"
+  - "/media/3 keo studio photography aninda 3.jpg"
+  - "/media/3 keo studio photography aninda 2.jpg"
   - "/media/keo studio photography aninda 2.jpg"
   - "/media/keo studio photography aninda 4.jpg"
   - "/media/keo studio photography aninda 3.jpg"
