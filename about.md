@@ -30,6 +30,7 @@ Contact me svet.wis@gmail.com
 
 ### **2016**
 
+* Profile Pictures for music band [Mockingbird](https://www.facebook.com/mockingbirdmelbourne/): _Photographer_   
 * Russian Drama Studio in Brisbane by Fabulous Parties. Performance 'Mirror': _Photographer at the event_
 * Russian Drama Studio in Brisbane by Fabulous Parties. Christmas Comedy Life Stories: _Photographer of Promotion Materials_
 * SkaZka: Russian Playgroup Brisbane: _Children and event Photographer_
