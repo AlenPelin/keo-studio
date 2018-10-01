@@ -12,4 +12,4 @@ images:
   - "/media/8 keo studio photography amanda neon 2.jpg"
 
 ---
-Have you ever heard about neon light portrait photography? It is a very popular
+Have you ever heard about neon light portrait photography? It is a very popular theme for a photo shoot. I would say that neon photoshoot is a followers-magnet! 
