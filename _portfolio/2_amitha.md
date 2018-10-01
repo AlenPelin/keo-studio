@@ -3,7 +3,7 @@ layout: post
 title: Amitha - studio photosession in Melbourne
 description: Amitha photoshoot by Keo Studio Photography
 images:
-  main: "/media/keo studio photography amitha 1.jpg"
+  main: "/media/2 keo studio photography amitha 1.jpg"
   thumbnail: "/media/2 keo studio photography amitha 0 thumbnail.jpg"
   items:
   - "/media/2 keo studio photography amitha 4.jpg"
