@@ -12,7 +12,7 @@ images:
   - "/media/16  keo studio photography melbourne sky 2.jpg"
 
 ---
-**Melbourne Sky X Vsco keo Studio photography**  
+**Melbourne Sky x VSCO keo studio photography**  
 
 The full gallery is [HERE](https://keo-studio.pixieset.com/melbourneskyxvsco/).
 
