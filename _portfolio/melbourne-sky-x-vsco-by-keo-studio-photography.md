@@ -15,3 +15,5 @@ images:
 **Melbourne Sky X Vsco keo Studio photography**  
 
 The full gallery is [HERE](https://keo-studio.pixieset.com/melbourneskyxvsco/).
+
+I live in Docklands, nearest suburb of Mebourne, Australia. I was blessed with a good view on 
