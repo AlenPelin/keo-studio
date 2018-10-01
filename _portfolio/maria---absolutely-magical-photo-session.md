@@ -2,6 +2,10 @@
 title: Maria - Absolutely Magical Photo Session
 layout: post
 date: 2018-10-01 13:53:28 +1000
-published: false
+description: golden hour natural light photoshoot on location
+images:
+  main: "/media/9 keo studio photography maria 1.jpg"
+  thumbnail: "/media/9 keo studio photography maria 0 thumbnail.jpg"
+  items: []
 
 ---
