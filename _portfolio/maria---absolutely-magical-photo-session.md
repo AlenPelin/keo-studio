@@ -7,6 +7,7 @@ images:
   main: "/media/9 keo studio photography maria 1.jpg"
   thumbnail: "/media/9 keo studio photography maria 0 thumbnail.jpg"
   items:
+  - "/media/9 keo studio photography maria 3-1.jpg"
   - "/media/9 keo studio photography maria 4-1.jpg"
   - "/media/9 keo studio photography maria 4.jpg"
   - "/media/9 keo studio photography maria 3.jpg"
