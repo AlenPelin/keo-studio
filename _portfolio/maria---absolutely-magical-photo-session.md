@@ -12,3 +12,4 @@ images:
   - "/media/9 keo studio photography maria 2.jpg"
 
 ---
+Maria is a very special model for me. She is my close friend; I took a lot of photos with her and every time I am fell in love.
