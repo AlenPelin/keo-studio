@@ -16,4 +16,4 @@ Sometimes you can combine indoor photo session with natural light and this is gr
 
 Katya is my long-term friend and she is a photographer too, so this photosession was a true collaboration between us.
 
-I used three types of light during the portrain session: very directional strong light thgrough the curtains from the window, backlight and soft diffused light from the big window covered
+I used three types of light during the portrain session: very directional strong light thgrough the curtains from the window, backlight and soft diffused light from the big window covered with lightweight white curtain.
