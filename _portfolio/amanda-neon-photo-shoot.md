@@ -23,3 +23,5 @@ We were quite limited in time:
 * It was a really, REALLY cold night in Melbourne and thanks to brave Amanda she controlled her facial expressions perfectly! No signs of frozen face and body! My hero.
 
 I am so proud of the result! The amount of photos ia small (around 10); I edited them in two styles - in red amd yellow and more pinky  and blue colors.
+
+So, if you are looking for a neon photo shoot in Melbourne - call me in!
