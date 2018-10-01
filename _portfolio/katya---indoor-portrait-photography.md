@@ -12,4 +12,6 @@ images:
   - "/media/15 keo studio photography katya 2.jpg"
 
 ---
-Sometimes you can combine indoor photo session with natural light. 
+Sometimes you can combine indoor photo session with natural light and this is great opportunity to create a fine-art portrait without artificial light.
+
+Katya
