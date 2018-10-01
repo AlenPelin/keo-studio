@@ -30,6 +30,8 @@ Contact me svet.wis@gmail.com
 
 ### **2016**
 
+* Russian Drama Studio in Brisbane by Fabulous Parties. Performance 'Mirror': _Photographer at the event_
+* Russian Drama Studio in Brisbane by Fabulous Parties. Christmas Comedy Life Stories: _Photographer of Promotion Materials_
 * SkaZka: Russian Playgroup Brisbane: _Children and event Photographer_
 * "Amazing Mummas Calendar" Shoot directed by Amy Johnston: _Photographer_
 * [ZagranMe](https://www.facebook.com/zagranme/) project about women at immigration: _52 weeks project. Photographer, content creator and project owner_
