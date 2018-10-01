@@ -6,7 +6,10 @@ description: Amanda - Neon Sign Photo Shoot by keo studio photography
 images:
   main: "/media/8 keo studio photography amanda neon 1.jpg"
   thumbnail: "/media/8 keo studio photography amanda neon 0 thumbnail.jpg"
-  items: []
+  items:
+  - "/media/8 keo studio photography amanda neon 4.jpg"
+  - "/media/8 keo studio photography amanda neon 3.jpg"
+  - "/media/8 keo studio photography amanda neon 2.jpg"
 published: false
 
 ---
