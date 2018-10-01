@@ -12,6 +12,8 @@ images:
   - "/media/9 keo studio photography maria 2.jpg"
 
 ---
-Maria is a very special model for me. She is my close friend; I took a lot of photos with her, when I lived n Brisben and every time I am fell in love.
+Maria is a very special model for me. She is my close friend; I took a lot of photos with her, when I lived n Brisben and every time I am fell in love. She is absolutely gorgeous, kind and lovele young woman. I am honored to collaborate with a beauty of that kind. 
 
-She is absolutely gorgeous, kind and lovele young woman. I am honored to collaborate with a beauty of that kind.
+Probably, now I said enough. Let me introduced my favourite photo session ever.
+
+We booked a cafe in Brisbane for the photo session. We took many photos but I want to share these four because they remind me of Harry Potter
