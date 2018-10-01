@@ -12,3 +12,4 @@ images:
   - "/media/12 keo studio photography helios sveta 2.jpg"
 
 ---
+Year ago I received a very special birthsday gift. It was Helios - retro manual lense. I knew it would be a chalenge to work with it
