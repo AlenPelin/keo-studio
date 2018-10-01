@@ -12,9 +12,9 @@ images:
   - "/media/keo studio photography aninda 3.jpg"
 
 ---
-in January 2018, I decided to try something new for keo studio photography; my first decision was to start steps in street style photography, fashion photography and lookbooks.
+in January 2018, I decided to try something new for keo studio photography; my first decision was to do steps in direction to street style photography, fashion photography and lookbooks for australian fashion brands (small and big).
 
-There are a lot of opportunities to do so in Melbourne, where we have Melbourne Fashion Week (MFW) (link [https://mfw.melbourne.vic.gov.au/about/](https://mfw.melbourne.vic.gov.au/about/ "https://mfw.melbourne.vic.gov.au/about/")) and many many talented bloggers, stylist, designers and influencers.
+There are a lot of opportunities to do so in Melbourne, where we have [Melbourne Fashion Week (MFW)](https://mfw.melbourne.vic.gov.au/about/) and many many talented bloggers, stylist, designers and influencers. And photographers.
 
 Aninda was a perfect model for me. We did one look in different location and I would like to share some photos with you.
 
