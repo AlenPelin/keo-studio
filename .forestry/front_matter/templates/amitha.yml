@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _portfolio/melbourne-spring-fashion-week-2015.md
 - _portfolio/milk-bath-photosession.md
 - _portfolio/maria---absolutely-magical-photo-session.md
 - _portfolio/amanda-neon-photo-shoot.md
