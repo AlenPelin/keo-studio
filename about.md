@@ -16,15 +16,15 @@ I started from a scratch; now I have a big portfolio with fine art portraits, fa
 
 Now I tend to do fashion photography, street style photography and model tests.
 
-**Contact me**
+## **Contact Me**
 
-svet.wis@gmail.com
+ svet.wis@gmail.com
 
 \+61401003650
 
 Melbourne, Australia
 
-## Credits
+## **Credits**
 
 <br/>
 
