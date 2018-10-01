@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _portfolio/maria---absolutely-magical-photo-session.md
 - _portfolio/amanda-neon-photo-shoot.md
 - _portfolio/jacinda-patty---dance-and-portrait-photo-shoot.md
 - _portfolio/corinna---natural-light-photography-melbourne.md
