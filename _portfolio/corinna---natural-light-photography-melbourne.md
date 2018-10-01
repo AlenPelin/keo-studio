@@ -10,7 +10,6 @@ images:
   - "/media/6 keo studio photography corinna 4.jpg"
   - "/media/6 keo studio photography corinna 3.jpg"
   - "/media/6 keo studio photography corinna 2.jpg"
-published: false
 
 ---
 [Corinna](https://www.instagram.com/apropos.coco/) is a  real gem I found in the Instagram. As soon as I saw her feed I decided to invite her to be my model. I like her style and her fashion taste so this is an example of photo session.
