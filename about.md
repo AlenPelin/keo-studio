@@ -16,7 +16,7 @@ I started from a scratch; now I have a big portfolio with fine art portraits, fa
 
 Now I tend to do fashion photography, street style photography and model tests.
 
-<br/>
+Contact me svet.wis@gmail.com
 
 ## Credits
 
