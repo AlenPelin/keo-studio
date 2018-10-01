@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _portfolio/ira---model-photo-shoot-in-melbourne.md
 - _portfolio/sveta---helios-retro-manual-lense-photography.md
 - _portfolio/melbourne-spring-fashion-week-2015.md
 - _portfolio/milk-bath-photosession.md
