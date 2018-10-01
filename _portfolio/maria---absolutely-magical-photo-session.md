@@ -6,6 +6,9 @@ description: golden hour natural light photoshoot on location
 images:
   main: "/media/9 keo studio photography maria 1.jpg"
   thumbnail: "/media/9 keo studio photography maria 0 thumbnail.jpg"
-  items: []
+  items:
+  - "/media/9 keo studio photography maria 4.jpg"
+  - "/media/9 keo studio photography maria 3.jpg"
+  - "/media/9 keo studio photography maria 2.jpg"
 
 ---
