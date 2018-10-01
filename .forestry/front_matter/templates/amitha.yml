@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _portfolio/melbourne-sky-x-vsco-by-keo-studio-photography.md
 - _portfolio/aninda-part-2.md
 - _portfolio/milk-bath-photosession.md
 - _portfolio/amanda-neon-photo-shoot.md
