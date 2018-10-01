@@ -12,3 +12,4 @@ images:
   - "/media/13 keo studio photography ira 2.jpg"
 
 ---
+Ira is a model, future lawyer, yogini and beautiful soul. We made a quick photo session in Melbourne city for her model book.
