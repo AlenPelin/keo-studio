@@ -13,3 +13,5 @@ images:
 
 ---
 Ira is a model, future lawyer, yogini and beautiful soul. We made a quick photo session in Melbourne city for her model book.
+
+She is highly professional and open to all suggestions. I like how our photosession turned out. It was a really gloomy day, so I had to play with colors, but the camera distirtion is so good here. I also like the sun flare.
