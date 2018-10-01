@@ -6,9 +6,9 @@ images:
   main: "/media/keo studio photography amitha 1.jpg"
   thumbnail: "/media/2 keo studio photography amitha 0 thumbnail.jpg"
   items:
+  - "/media/2 keo studio photography amitha 4.jpg"
   - "/media/2 keo studio photography amitha 3.jpg"
   - "/media/2 keo studio photography amitha 2.jpg"
-  - "/media/keo studio photography amitha 4.jpg"
 
 ---
 During my internship program in [the photo studio australia](https://thephotostudio.com.au/) (studio in Melbourne) I needed a model for my first **studio photo session**. 
