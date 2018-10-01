@@ -20,7 +20,7 @@ Now I tend to do fashion photography, street style photography and model tests.
 
  svet.wis@gmail.com
 
-\+61401003650
+\+61 401 003 650
 
 Melbourne, Australia
 
