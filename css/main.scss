@@ -3,10 +3,27 @@
 ---
 @charset "utf-8";
 
+a, a:hover, a:visited {
+    text-decoration: none;
+    color: inherit;
+}
 
+.card {
+    margin-right: 2em;
+}
+.card-body{
+    height: 8em;
+}
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout"
-;
+nav {
+    margin-bottom: 2em;
+}
+
+.blog-post-gallery {
+    max-height: 250px; 
+}
+
+.blog-post-gallery img {
+    max-width: 100%;
+    height: auto;   
+}
