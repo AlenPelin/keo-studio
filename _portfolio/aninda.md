@@ -10,9 +10,6 @@ images:
   - "/media/3 keo studio photography aninda 4.jpg"
   - "/media/3 keo studio photography aninda 3.jpg"
   - "/media/3 keo studio photography aninda 2.jpg"
-  - "/media/keo studio photography aninda 2.jpg"
-  - "/media/keo studio photography aninda 4.jpg"
-  - "/media/keo studio photography aninda 3.jpg"
 
 ---
 in January 2018, I decided to try something new for keo studio photography; my first decision was to do steps in direction to street style photography, fashion photography and lookbooks for australian fashion brands (small and big).
