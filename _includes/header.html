@@ -1,21 +1,30 @@
-<header class="site-header">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container">
+    <a class="navbar-brand" href="/">Keo Studio Photography</a>
 
-  <div class="wrapper">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-    <nav class="site-nav">
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
 
-      <div class="trigger">
-        <a class="page-link" href="/">Home</a>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
+          </li>
+          
+          <li class="nav-item">
+            <a class="nav-link" href="https://keo-studio.pixieset.com/">Portfolio</a>
+          </li>
 
-        {% for otherPage in site.pages %}
-          {% if otherPage.title %}
-          <a class="page-link" href="{{ otherPage.url | prepend: site.baseurl }}">{{ otherPage.title }}</a>
-          {% endif %}
-        {% endfor %}
-
-      </div>
-    </nav>
-
+{% for otherPage in site.pages %}
+  {% if otherPage.title %}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ otherPage.url | prepend: site.baseurl }}">{{ otherPage.title }}</a>
+        </li>
+  {% endif %}
+{% endfor %}
+      </ul>
+    </div>
   </div>
-
-</header>
+</nav>

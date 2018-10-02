@@ -1,35 +1,33 @@
 ---
 layout: default
 ---
-<div class="post">
+<div class="blog-post container">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%B %-d, %Y — %H:%M" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+  <h2 class="blog-post-title">{{ page.title }}</h2>
+  <p class="blog-post-meta">{{ page.description }}</p>
 
   <article class="post-content">
-
-    <div class="img_row">
-      <img class="col three" src="{{ site.baseurl }}{{ page.images.main }}" alt="{{ page.description }}" title="{{ page.description }}"/>
-    </div>
     
     {{ content }}
 
-    <div class="img_row">
+    <div class="blog-post-gallery owl-carousel">
 
     {% for img in page.images.items %}
     
-      <img class="col one" src="{{ site.baseurl }}{{ img }}" alt="{{ page.description }}" title="{{ page.description }}"/>      
+      <img class="blog-post-gallery-image" src="{{ site.baseurl }}{{ img }}" alt="{{ page.description }}" />      
 
     {% endfor %}
 
     </div>
     
-    <div class="col three caption">
-        {{ page.description }}
-    </div>
-    
   </article>
 
 </div>
+
+<script>
+window.owlSettings = {
+  number: 3,
+  nav: 1,
+  margin: 10,
+};
+</script> 
