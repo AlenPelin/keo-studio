@@ -40,6 +40,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _portfolio/aninda.md
 - _portfolio/ramona---natural-light-portrait-photo-session.md
 - _portfolio/melbourne-sky-x-vsco-by-keo-studio-photography.md
 - _portfolio/aninda-part-2.md
@@ -54,4 +55,3 @@ pages:
 - _portfolio/sveta---helios-retro-manual-lense-photography.md
 - _portfolio/melbourne-spring-fashion-week-2015.md
 - _portfolio/maria---absolutely-magical-photo-session.md
-- _portfolio/aninda.md

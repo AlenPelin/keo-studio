@@ -4,12 +4,11 @@ title: About
 permalink: "/about/"
 
 ---
-
 Hi!
 
 <img style="float: right; width: 250px; height: 250px;" src="/media/avatar.jpg" alt="avatar">
 
-I am Svetlana *\*you can call me Lana*. I am fashion and portrait photographer based in Melbourne, Australia.
+I am Svetlana _*you can call me Lana_. I am fashion and portrait photographer based in Melbourne, Australia.
 
 I started building my portfolio in 2014, when I moved to Australia; it all started as a part of my English classes (you can't direct your model without proper language, right?) but now I can not imagine my life without photography.
 
@@ -22,6 +21,8 @@ Now I tend to do fashion photography, street style photography and model tests.
 [svet.wis@gmail.com](mailto:svet.wis@gmail.com)  
 \+61 401 003 650  
 Melbourne, Australia
+
+ABN 55150419507
 
 <br />
 
